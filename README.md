@@ -1,1 +1,1 @@
-# esp32_blink
+Aqui são encontrados os códigos utilizados na programação de um sistema de automação residencial com ESP32 e Home Assistant, desenvolvido como trabalho de conclusão de curso para minha graduação em Engenharia da Computação. Parte deles foram usados para teste de funcionamento de sensores com ambiente Arduino IDE, mais especificamente os sensores AHT10 (Internamente AHT20) e o BH1750, para leitura de temperatura e umidade, e luminosidade respectivamente. Estão inclusos também os códigos de configuração do Home Assistant em YAML (Yet Another Markup Language).
